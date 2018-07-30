@@ -21,7 +21,7 @@ Cost function is fomulated by data fidelty term `f(x)` and regularization term `
 
         (P2) argmin_x,y f(x) + g(y)
         
-        subject to x = y
+             subject to x = y
         
 By the augmented lagrangian method, (P2) can be formulated to the unconstrained problem,
 
